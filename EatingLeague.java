@@ -3,7 +3,7 @@ import java.util.Scanner;
 /*
  *  吃貨聯盟訂餐系統
  * @author  Yzj
- *
+ * 2018.11.13
  * */
 public class EatingLeague {
     public static void main(String[] args) {
